@@ -109,7 +109,6 @@ This project obtains information about plays and other performances in Bogotá a
 ### Prerequisites
 
 In order to extract the information from the internet, you must install Selenium
-* npm
   ```sh
   pip install selenium
   ```
