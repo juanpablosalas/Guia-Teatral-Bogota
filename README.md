@@ -169,7 +169,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@juanpicoss](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@juanpicoss](https://twitter.com/twitter_handle) - jp.salas@uniandes.edu.co
 
 Project Link: [https://github.com/juanpablosalas/Guia-Teatral-Bogota](https://github.com/juanpablosalas/Guia-Teatral-Bogota)
 
